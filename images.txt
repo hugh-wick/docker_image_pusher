@@ -1,6 +1,90 @@
-nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+# xhofe/alist:latest
+
+# nginx
+nginx
+jc21/nginx-proxy-manager
+jc21/nginx-proxy-manager:2.11.2
+
+# jdk
+openjdk:11
+
+redis
+rabbitmq
+minio/minio
+
+# soner
+mc1arke/sonarqube-with-community-branch-plugin:10.3-community
+mc1arke/sonarqube-with-community-branch-plugin:9.9-community
+mc1arke/sonarqube-with-community-branch-plugin:9.8-community
+
+
+# node
+node:18.17.1
+node:14.21.3
+node:14.17.3
+node:13.14.0
+
+
+
+# db
+mysql:8.3.0
+mysql:8.1.0
+mysql:8.0.37
+mysql:8.0.32
+mysql:8.0.27
+mysql:8.0.22
+mongo
+tdengine/tdengine
+
+# emqx 
+emqx/emqx
+emqx/emqx:4.4.19
+
+#nacos 
+nacos/nacos-server:v2.3.2
+nacos/nacos-server
+
+# other
+ossrs/srs:5
+seataio/seata-server:1.6.1
+easysoft/zentao
+tencentci/discuz:v3.4
+grafana/grafana
+prom/prometheus
+bililive/recorder:latest
+
+ictu/sshpass
+busybox
+
+
+
+# git 
+gitlab/gitlab-ce
+gitlab/gitlab-ce:17.1.0-ce.0
+gitlab/gitlab-ce:16.11.1-ce.0
+gitlab/gitlab-runner
+
+# 私有打包
+hntohere/maven-cn163:3.5.4-jdk-11
+hntohere/openjdk-ping:11
+
+# maven
+maven:3.5.4-jdk-11
+
+# so
+centos:centos7
+ubuntu:18.04
+ubuntu:22.04
+
+# ELK
+elasticsearch:7.17.9
+kibana:7.17.9
+logstash:7.17.9
+
+elasticsearch:8.11.1
+kibana:8.11.1
+logstash:8.11.1
