@@ -7,8 +7,12 @@
 # nginx
 nginx
 nginx:1.25.2
+
+# 
 jc21/nginx-proxy-manager
 jc21/nginx-proxy-manager:2.11.2
+jc21/mariadb-aria
+jc21/mariadb-aria:10.11.5
 
 # jdk
 openjdk:11
