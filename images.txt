@@ -21,7 +21,6 @@ mc1arke/sonarqube-with-community-branch-plugin:10.3-community
 mc1arke/sonarqube-with-community-branch-plugin:9.9-community
 mc1arke/sonarqube-with-community-branch-plugin:9.8-community
 
-
 # node
 node:18.17.1
 node:14.21.3
