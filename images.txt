@@ -11,9 +11,10 @@ jc21/nginx-proxy-manager:2.11.2
 
 # jdk
 openjdk:11
+openjdk:8u342
 
 redis
-rabbitmq
+
 minio/minio
 
 # soner
@@ -45,9 +46,18 @@ emqx/emqx:4.4.19
 nacos/nacos-server:v2.3.2
 nacos/nacos-server
 
+# mq
+rabbitmq
+wurstmeister/kafka
+zookeeper
+
+# seata
+seataio/seata-server:1.6.1
+seataio/seata-server:1.5.2
+
 # other
 ossrs/srs:5
-seataio/seata-server:1.6.1
+ossrs/srs:4
 easysoft/zentao
 tencentci/discuz:v3.4
 grafana/grafana
@@ -56,7 +66,7 @@ bililive/recorder:latest
 
 ictu/sshpass
 busybox
-
+ghcr.io/mhsanaei/3x-ui
 
 
 # git 
