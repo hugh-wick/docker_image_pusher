@@ -6,6 +6,7 @@
 
 # nginx
 nginx
+nginx:1.25.2
 jc21/nginx-proxy-manager
 jc21/nginx-proxy-manager:2.11.2
 
