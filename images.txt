@@ -63,7 +63,7 @@ tencentci/discuz:v3.4
 grafana/grafana
 prom/prometheus
 bililive/recorder:latest
-
+linuxserver/ffmpeg
 ictu/sshpass
 busybox
 ghcr.io/mhsanaei/3x-ui
