@@ -105,3 +105,6 @@ logstash:8.14.1
 elasticsearch:8.11.1
 kibana:8.11.1
 logstash:8.11.1
+
+# 网站流量监控
+louislam/uptime-kuma
