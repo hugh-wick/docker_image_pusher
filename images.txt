@@ -72,7 +72,7 @@ linuxserver/ffmpeg
 ictu/sshpass
 busybox
 ghcr.io/mhsanaei/3x-ui
-
+portainer/portainer
 
 # git 
 gitlab/gitlab-ce
