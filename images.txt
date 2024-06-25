@@ -91,14 +91,16 @@ ubuntu:22.04
 elasticsearch:7.17.9
 kibana:7.17.9
 logstash:7.17.9
-
 elasticsearch:8.14.1
 kibana:8.14.1
 logstash:8.14.1
-
 elasticsearch:8.11.1
 kibana:8.11.1
 logstash:8.11.1
+
+fluentd
+fluentd:v1.14-1
+fluentd:v1.16.2-1.1
 
 # 网站流量监控
 louislam/uptime-kuma
