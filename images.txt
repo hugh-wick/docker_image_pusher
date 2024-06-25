@@ -79,8 +79,6 @@ gitlab/gitlab-runner
 hntohere/maven-cn163:3.5.4-jdk-11
 hntohere/openjdk-ping:11
 
-# maven
-maven:3.5.4-jdk-11
 
 # so
 centos:centos7
@@ -124,3 +122,13 @@ sonarsource/sonar-scanner-cli
 python
 python:3.9.19
 python:3.8.19
+
+# maven
+maven:3.5.4-jdk-11
+maven:3.9.6
+maven:3.9.6-eclipse-temurin-11
+maven:3.9.6-eclipse-temurin-11-alpine
+maven:3.9.6-eclipse-temurin-17
+maven:3.9.6-eclipse-temurin-17-alpine
+maven:3.9.6-eclipse-temurin-21
+maven:3.9.6-eclipse-temurin-21-alpine
