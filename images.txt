@@ -18,7 +18,6 @@ jc21/mariadb-aria:10.11.5
 openjdk:11
 openjdk:8u342
 
-redis
 
 minio/minio
 
@@ -51,6 +50,12 @@ emqx/emqx:4.4.19
 #nacos 
 nacos/nacos-server:v2.3.2
 nacos/nacos-server
+
+# redis
+redis
+redis:6.2.14
+redis:6.2
+redis:6.0.20
 
 # mq
 rabbitmq
@@ -108,3 +113,8 @@ logstash:8.11.1
 
 # 网站流量监控
 louislam/uptime-kuma
+
+# python
+python
+python:3.9.19
+python:3.8.19
