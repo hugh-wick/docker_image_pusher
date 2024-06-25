@@ -125,6 +125,7 @@ python:3.8.19
 
 # maven
 maven:3.5.4-jdk-11
+maven:3.6.1-jdk-11
 maven:3.9.6
 maven:3.9.6-eclipse-temurin-11
 maven:3.9.6-eclipse-temurin-11-alpine
