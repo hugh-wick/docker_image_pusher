@@ -31,6 +31,7 @@ mysql:8.0.27
 mysql:8.0.22
 mongo
 tdengine/tdengine
+postgres:15-alpine
 
 # emqx 
 emqx/emqx
@@ -66,8 +67,9 @@ bililive/recorder:latest
 linuxserver/ffmpeg
 ictu/sshpass
 busybox
-ghcr.io/mhsanaei/3x-ui
 portainer/portainer
+ghcr.io/mhsanaei/3x-ui
+ghcr.io/umami-software/umami:postgresql-latest
 
 # git 
 gitlab/gitlab-ce
