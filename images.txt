@@ -74,6 +74,7 @@ ghcr.io/umami-software/umami:postgresql-latest
 # git 
 gitlab/gitlab-ce
 gitlab/gitlab-ce:17.1.0-ce.0
+gitlab/gitlab-ce:17.1.1-ce.0
 gitlab/gitlab-ce:16.11.1-ce.0
 gitlab/gitlab-runner
 
