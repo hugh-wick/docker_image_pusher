@@ -32,7 +32,11 @@ mysql:8.0.27
 mysql:8.0.22
 mongo
 tdengine/tdengine
+tdengine/tdengine:3.2.1.0
+clickhouse/clickhouse-server
 postgres:15-alpine
+
+# 
 
 # emqx 
 emqx/emqx
