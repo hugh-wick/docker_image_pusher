@@ -68,13 +68,16 @@ easysoft/zentao
 tencentci/discuz:v3.4
 grafana/grafana
 prom/prometheus
-bililive/recorder:latest
 linuxserver/ffmpeg
 ictu/sshpass
 busybox
 portainer/portainer
 ghcr.io/mhsanaei/3x-ui
 ghcr.io/umami-software/umami:postgresql-latest
+
+# 录播姬
+bililive/recorder:latest
+bililive/recorder:2.10.1
 
 # git 
 gitlab/gitlab-ce
