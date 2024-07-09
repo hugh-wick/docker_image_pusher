@@ -99,9 +99,14 @@ ubuntu:18.04
 ubuntu:22.04
 
 # ELK
+# v7
+elasticsearch:7.17.22
+kibana:7.17.22
+logstash:7.17.22
 elasticsearch:7.17.9
 kibana:7.17.9
 logstash:7.17.9
+# V8---
 elasticsearch:8.14.1
 kibana:8.14.1
 logstash:8.14.1
