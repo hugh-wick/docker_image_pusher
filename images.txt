@@ -3,7 +3,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # xhofe/alist:latest
-alpine
+
+
 # nginx
 nginx
 nginx:1.25.2
@@ -36,13 +37,12 @@ tdengine/tdengine:3.2.1.0
 clickhouse/clickhouse-server
 postgres:15-alpine
 
-# 
 
 # emqx 
 emqx/emqx
 emqx/emqx:4.4.19
 
-#nacos 
+# nacos 
 nacos/nacos-server:v2.3.2
 nacos/nacos-server
 
@@ -74,6 +74,7 @@ busybox
 portainer/portainer
 ghcr.io/mhsanaei/3x-ui
 ghcr.io/umami-software/umami:postgresql-latest
+alpine
 
 # 录播姬
 bililive/recorder:latest
@@ -81,7 +82,7 @@ bililive/recorder:2.10.1
 
 # git 
 gitlab/gitlab-ce
-gitlab/gitlab-ce:17.1.1-ce.0
+gitlab/gitlab-ce:17.1.2-ce.0
 gitlab/gitlab-ce:16.11.5-ce.0
 gitlab/gitlab-runner
 
