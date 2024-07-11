@@ -3,7 +3,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # xhofe/alist:latest
-
+alpine
 # nginx
 nginx
 nginx:1.25.2
