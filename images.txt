@@ -1,2 +1,154 @@
+#支持私库
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#支持指定架构
+#--platform=linux/arm64 xiaoyaliu/alist
+# xhofe/alist:latest
+
+
+# nginx
+nginx
+nginx:1.25.2
+uozi/nginx-ui
+
+#  nignx-proxy
+jc21/nginx-proxy-manager
+jc21/nginx-proxy-manager:2.11.2
+jc21/mariadb-aria
+jc21/mariadb-aria:10.11.5
+
+minio/minio
+
+# node
+node:18.17.1
+node:14.21.3
+node:14.17.3
+node:13.14.0
+
+# db
+mysql:8.3.0
+mysql:8.1.0
+mysql:8.0.37
+mysql:8.0.32
+mysql:8.0.27
+mysql:8.0.22
+mongo
+tdengine/tdengine
+tdengine/tdengine:3.2.1.0
+clickhouse/clickhouse-server
+postgres:15-alpine
+
+
+# emqx 
+emqx/emqx
+emqx/emqx:4.4.19
+
+# nacos 
+nacos/nacos-server:v2.3.2
+nacos/nacos-server
+
+# redis
+redis
+redis:6.2.14
+redis:6.2
+redis:6.0.20
+
+# mq
+rabbitmq
+wurstmeister/kafka
+zookeeper
+
+# seata
+seataio/seata-server:1.6.1
+seataio/seata-server:1.5.2
+
+# other
+ossrs/srs:5
+ossrs/srs:4
+easysoft/zentao
+tencentci/discuz:v3.4
+grafana/grafana
+prom/prometheus
+linuxserver/ffmpeg
+ictu/sshpass
+busybox
+portainer/portainer
+ghcr.io/mhsanaei/3x-ui
+ghcr.io/umami-software/umami:postgresql-latest
+alpine
+
+# 录播姬
 bililive/recorder:latest
 bililive/recorder:2.10.1
+
+# git 
+gitlab/gitlab-ce
+gitlab/gitlab-ce:17.1.2-ce.0
+gitlab/gitlab-ce:16.11.5-ce.0
+gitlab/gitlab-runner
+
+# 私有打包
+hntohere/maven-cn163:3.5.4-jdk-11
+hntohere/openjdk-ping:11
+# 大华、海康、宇视、天地伟业摄像机SDK包
+hntohere/device-cameras
+# 摄像机图片质量诊断、包含opencv 4.5.4环境
+hntohere/device-cameras-status
+
+# so
+centos:centos7
+ubuntu:18.04
+ubuntu:22.04
+
+# ELK
+# v7
+elasticsearch:7.17.22
+kibana:7.17.22
+logstash:7.17.22
+elasticsearch:7.17.9
+kibana:7.17.9
+logstash:7.17.9
+# V8---
+elasticsearch:8.14.1
+kibana:8.14.1
+logstash:8.14.1
+elasticsearch:8.11.1
+kibana:8.11.1
+logstash:8.11.1
+
+fluentd
+fluentd:v1.14-1
+fluentd:v1.16.2-1.1
+
+# 网站流量监控
+louislam/uptime-kuma
+
+# docker 
+swarm:latest
+
+# jdk
+openjdk:17-jdk-alpine
+openjdk:17.0
+openjdk:11
+openjdk:8u342
+
+# soner
+mc1arke/sonarqube-with-community-branch-plugin:10.3-community
+mc1arke/sonarqube-with-community-branch-plugin:9.9-community
+mc1arke/sonarqube-with-community-branch-plugin:9.8-community
+sonarsource/sonar-scanner-cli
+
+# python
+python
+python:3.9.19
+python:3.8.19
+
+# maven
+maven:3.5.4-jdk-11
+maven:3.6.1-jdk-11
+maven:3.9.6
+maven:3.9.6-eclipse-temurin-11
+maven:3.9.6-eclipse-temurin-11-alpine
+maven:3.9.6-eclipse-temurin-17
+maven:3.9.6-eclipse-temurin-17-alpine
+maven:3.9.6-eclipse-temurin-21
+maven:3.9.6-eclipse-temurin-21-alpine
