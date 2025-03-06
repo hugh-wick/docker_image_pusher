@@ -25,8 +25,10 @@ node:14.17.3
 node:13.14.0
 
 # db
-mysql:8.3.0
-mysql:8.1.0
+mysql:8.0.41
+mysql:8.0.40
+mysql:8.0.39
+mysql:8.0.38
 mysql:8.0.37
 mysql:8.0.32
 mysql:8.0.27
@@ -94,6 +96,7 @@ hntohere/device-cameras
 # 摄像机图片质量诊断、包含opencv 4.5.4环境
 hntohere/device-cameras-status
 
+assaflavie/runlike
 # so
 centos:centos7
 ubuntu:18.04
