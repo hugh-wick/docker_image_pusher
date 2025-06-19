@@ -56,6 +56,7 @@ redis:6.0.20
 
 # mq
 rabbitmq
+rabbitmq:management
 wurstmeister/kafka
 zookeeper
 
@@ -110,7 +111,7 @@ logstash:7.17.22
 elasticsearch:7.17.9
 kibana:7.17.9
 logstash:7.17.9
-# V8---
+# V8
 elasticsearch:8.14.1
 kibana:8.14.1
 logstash:8.14.1
@@ -128,9 +129,13 @@ louislam/uptime-kuma
 # docker 
 swarm:latest
 
+#
+eclipse-temurin:17-jdk
+eclipse-temurin:17-jre
+eclipse-temurin:11-jdk
+eclipse-temurin:11-jre
+
 # jdk
-openjdk:17-jdk-alpine
-openjdk:17.0
 openjdk:11
 openjdk:8u342
 
