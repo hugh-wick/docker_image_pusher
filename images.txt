@@ -73,7 +73,7 @@ bililive/recorder:2.10.1
 
 # git 
 gitlab/gitlab-ce
-gitlab/gitlab-ce:17.11.5-ce.0
+# gitlab/gitlab-ce:17.11.5-ce.0
 gitlab/gitlab-runner
 
 # 私有打包
@@ -93,19 +93,13 @@ ubuntu:24.04
 
 # ELK
 # v7
-elasticsearch:7.17.22
-kibana:7.17.22
-logstash:7.17.22
-elasticsearch:7.17.9
-kibana:7.17.9
-logstash:7.17.9
+elasticsearch:7.17.28
+kibana:7.17.28
+logstash:7.17.28
 # V8
-elasticsearch:8.14.1
-kibana:8.14.1
-logstash:8.14.1
-elasticsearch:8.11.1
-kibana:8.11.1
-logstash:8.11.1
+elasticsearch:8.17.6
+kibana:8.17.6
+logstash:8.17.6
 
 fluentd
 
