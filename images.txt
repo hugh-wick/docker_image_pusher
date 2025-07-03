@@ -27,18 +27,8 @@ node:14.21.3
 
 # db
 mysql
-mysql:8.0.42
-mysql:8.0.30
-mysql:8.0.29
-mysql:8.0.28
-mysql:8.0.27
-mysql:8.0.26
-mysql:8.0.25
-mysql:8.0.24
-mysql:8.0.23
-mysql:8.0.22
-mysql:8.0.21
-mysql:8.0.20
+# mysql:8.0.42
+
 mongo
 tdengine/tdengine
 tdengine/tdengine:3.2.1.0
@@ -57,8 +47,6 @@ nacos/nacos-server
 # redis
 redis
 redis:6.2.14
-redis:6.2
-redis:6.0.20
 
 # mq
 rabbitmq
@@ -92,12 +80,6 @@ bililive/recorder:2.10.1
 # git 
 gitlab/gitlab-ce
 gitlab/gitlab-ce:17.11.5-ce.0
-gitlab/gitlab-ce:17.10.8-ce.0
-gitlab/gitlab-ce:17.9.8-ce.0
-gitlab/gitlab-ce:17.8.7-ce.0
-gitlab/gitlab-ce:17.7.7-ce.0
-gitlab/gitlab-ce:17.6.5-ce.0
-gitlab/gitlab-ce:17.5.5-ce.0
 gitlab/gitlab-runner
 
 # 私有打包
