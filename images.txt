@@ -25,11 +25,7 @@ mysql
 
 mongo
 tdengine/tdengine
-tdengine/tdengine:3.2.3.0
-tdengine/tdengine:3.3.3.0
-tdengine/tdengine:3.3.4.8
-tdengine/tdengine:3.3.5.8
-tdengine/tdengine:3.3.6.13
+# tdengine/tdengine:3.3.6.13
 
 clickhouse/clickhouse-server
 postgres:15-alpine
