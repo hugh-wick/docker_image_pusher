@@ -26,17 +26,19 @@ node:14.21.3
 
 
 # db
-mysql:8.0.41
-mysql:8.0.40
-mysql:8.0.36
-mysql:8.0.35
-mysql:8.0.34
-mysql:8.0.33
-mysql:8.0.32
-mysql:8.0.31
+mysql
+mysql:8.0.42
 mysql:8.0.30
+mysql:8.0.29
+mysql:8.0.28
 mysql:8.0.27
+mysql:8.0.26
+mysql:8.0.25
+mysql:8.0.24
+mysql:8.0.23
 mysql:8.0.22
+mysql:8.0.21
+mysql:8.0.20
 mongo
 tdengine/tdengine
 tdengine/tdengine:3.2.1.0
