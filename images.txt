@@ -34,7 +34,6 @@ postgres:15-alpine
 # emqx 
 emqx/emqx
 emqx/emqx:5.7.2
-emqx/emqx:5.6.1
 
 # nacos 
 nacos/nacos-server:v2.3.2
