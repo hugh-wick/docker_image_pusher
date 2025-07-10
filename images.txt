@@ -11,7 +11,7 @@ uozi/nginx-ui
 
 #  nignx-proxy
 jc21/nginx-proxy-manager
-jc21/nginx-proxy-manager:2.12.6
+# jc21/nginx-proxy-manager:2.12.6
 jc21/mariadb-aria
 
 minio/minio
@@ -75,7 +75,7 @@ bililive/recorder:2.10.1
 
 # git 
 gitlab/gitlab-ce
-# gitlab/gitlab-ce:17.11.5-ce.0
+gitlab/gitlab-ce:17.11.3-ce.0
 gitlab/gitlab-runner
 
 # 私有打包
