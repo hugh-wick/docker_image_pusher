@@ -11,6 +11,7 @@ uozi/nginx-ui
 
 #  nignx-proxy
 jc21/nginx-proxy-manager
+jc21/nginx-proxy-manager:2.12.6
 jc21/mariadb-aria
 
 minio/minio
@@ -122,8 +123,9 @@ sonarsource/sonar-scanner-cli
 
 # python
 python
-python:3.9.19
-python:3.8.19
+python:3.9.23
+python:3.10.18
+
 
 # maven
 maven:3.9.6-eclipse-temurin-11
