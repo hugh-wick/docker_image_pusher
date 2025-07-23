@@ -34,7 +34,7 @@ postgres:15-alpine
 
 # emqx 
 emqx/emqx
-emqx/emqx:5.7.2
+emqx/emqx:5.8.7
 
 # nacos 
 nacos/nacos-server:v2.3.2
@@ -42,7 +42,7 @@ nacos/nacos-server
 
 # redis
 redis
-redis:6.2.14
+#redis:6.2.14
 
 # mq
 rabbitmq
@@ -51,8 +51,8 @@ wurstmeister/kafka
 zookeeper
 
 # seata
-seataio/seata-server:1.6.1
-seataio/seata-server:1.5.2
+seataio/seata-server:1.8.0.2
+seataio/seata-server
 
 # other
 ossrs/srs:5
@@ -70,12 +70,12 @@ ghcr.io/umami-software/umami:postgresql-latest
 alpine
 
 # 录播姬
-bililive/recorder:latest
-bililive/recorder:2.10.1
+bililive/recorder
+bililive/recorder:2.17.3
 
 # git 
 gitlab/gitlab-ce
-gitlab/gitlab-ce:17.11.3-ce.0
+gitlab/gitlab-ce:17.11.6-ce.0
 gitlab/gitlab-runner
 
 # 私有打包
@@ -123,8 +123,8 @@ sonarsource/sonar-scanner-cli
 
 # python
 python
-python:3.9.23
-python:3.10.18
+python:3.11.13
+python:3.12.11
 
 
 # maven
