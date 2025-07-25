@@ -15,7 +15,7 @@ jc21/nginx-proxy-manager
 jc21/mariadb-aria
 
 minio/minio
-
+minio/minio:RELEASE.2025-04-22T22-12-26Z
 # node
 #node:14.17.3
 #node:16.20.2
@@ -25,20 +25,9 @@ node:22.17.1
 
 # db
 mysql
-mysql:8.0.43
-mysql:8.0.42
-mysql:8.0.41
-mysql:8.0.40
-mysql:8.0.39
-mysql:8.0.38
-mysql:8.0.37
-mysql:8.0.36
-mysql:8.0.35
-mysql:8.0.34
-mysql:8.0.33
-mysql:8.0.32
-mysql:8.0.31
-mysql:8.0.30
+#mysql:8.0.43
+mysql:8.0.29
+
 
 mongo
 tdengine/tdengine
@@ -113,13 +102,13 @@ ubuntu:24.04
 
 # ELK
 # v7
-elasticsearch:7.17.28
-kibana:7.17.28
-logstash:7.17.28
+# elasticsearch:7.17.28
+# kibana:7.17.28
+# logstash:7.17.28
 # V8
-elasticsearch:8.17.6
-kibana:8.17.6
-logstash:8.17.6
+# elasticsearch:8.17.6
+# kibana:8.17.6
+# logstash:8.17.6
 
 fluentd
 
