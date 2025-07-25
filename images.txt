@@ -4,7 +4,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # xhofe/alist:latest
 
-
 # nginx
 nginx
 uozi/nginx-ui
@@ -15,27 +14,19 @@ jc21/nginx-proxy-manager
 jc21/mariadb-aria
 
 minio/minio
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+#minio/minio:RELEASE.2025-04-22T22-12-26Z
+
 # node
 #node:14.17.3
 #node:16.20.2
 #node:18.17.1
 #node:20.19.4
-node:22.17.1
+#node:22.17.1
 
 # db
 mysql
 #mysql:8.0.43
-mysql:8.0.29
-mysql:8.0.28
-mysql:8.0.27
-mysql:8.0.26
-mysql:8.0.25
-mysql:8.0.24
-mysql:8.0.23
-mysql:8.0.22
-mysql:8.0.21
-mysql:8.0.20
+mysql:8.0.19
 
 mongo
 tdengine/tdengine
@@ -47,7 +38,7 @@ postgres:15-alpine
 
 # emqx 
 emqx/emqx
-emqx/emqx:5.8.7
+# emqx/emqx:5.8.7
 
 # nacos 
 #nacos/nacos-server:v2.5.1
@@ -70,7 +61,7 @@ seataio/seata-server
 # other
 # 流媒体服务器
 ossrs/srs:5
-ossrs/srs:4
+#ossrs/srs:4
 
 # 禅道
 easysoft/zentao
@@ -88,12 +79,11 @@ alpine
 
 # 录播姬
 bililive/recorder
-bililive/recorder:2.17.3
+#bililive/recorder:2.17.3
 
 # git 
 gitlab/gitlab-ce
-gitlab/gitlab-ce:17.11.6-ce.0
-gitlab/gitlab-ce:17.10.8-ce.0
+#gitlab/gitlab-ce:17.11.6-ce.0
 gitlab/gitlab-runner
 
 # 私有打包
