@@ -64,8 +64,9 @@ zookeeper
 seataio/seata-server
 
 # xxl-job
-xuxueli/xxl-job-admin:2.5.0
-xuxueli/xxl-job-admin:3.1.1
+#xuxueli/xxl-job-admin:2.5.0
+#xuxueli/xxl-job-admin:3.1.1
+xuxueli/xxl-job-admin
 
 # other
 # 流媒体服务器
