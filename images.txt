@@ -65,8 +65,8 @@ seataio/seata-server
 
 # other
 # 流媒体服务器
-ossrs/srs:5
-#ossrs/srs:4
+#ossrs/srs:5
+ossrs/srs:6
 
 # 禅道
 easysoft/zentao
@@ -101,7 +101,8 @@ hntohere/device-cameras-status
 
 assaflavie/runlike
 # so
-centos:centos7
+centos:7
+centos:7.9.2009
 ubuntu:20.04
 ubuntu:22.04
 ubuntu:24.04
@@ -136,10 +137,8 @@ sonarsource/sonar-scanner-cli
 
 # python
 python
-python:3.12.11
-python:3.11.13
-python:3.10.18
-python:3.9.23
+#python:3.12.11
+
 
 
 # maven
