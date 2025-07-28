@@ -59,9 +59,13 @@ wurstmeister/kafka
 zookeeper
 
 # seata
-seataio/seata-server:1.8.0.2
-seataio/seata-server:1.6.1
+#seataio/seata-server:1.8.0.2
+#seataio/seata-server:1.6.1
 seataio/seata-server
+
+# xxl-job
+xuxueli/xxl-job-admin:2.5.0
+xuxueli/xxl-job-admin:3.1.1
 
 # other
 # 流媒体服务器
