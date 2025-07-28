@@ -112,13 +112,13 @@ ubuntu:24.04
 # kibana:7.17.28
 # logstash:7.17.28
 # V8
-# elasticsearch:8.17.6
-# kibana:8.17.6
-# logstash:8.17.6
+elasticsearch:8.17.9
+kibana:8.17.9
+logstash:8.17.9
 
-elasticsearch:8.18.4
-kibana:8.18.4
-logstash:8.18.4
+#elasticsearch:8.18.4
+#kibana:8.18.4
+#logstash:8.18.4
 
 fluentd
 
@@ -129,6 +129,8 @@ louislam/uptime-kuma
 swarm
 
 # openjdk
+eclipse-temurin:21-jdk
+eclipse-temurin:21-jre
 eclipse-temurin:17-jdk
 eclipse-temurin:17-jre
 eclipse-temurin:11-jdk
