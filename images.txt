@@ -26,7 +26,16 @@ minio/minio
 # db
 mysql
 #mysql:8.0.43
-#mysql:8.0.11
+mysql:8.0.10
+mysql:8.0.9
+mysql:8.0.8
+mysql:8.0.7
+mysql:8.0.6
+mysql:8.0.5
+mysql:8.0.4
+mysql:8.0.3
+mysql:8.0.2
+mysql:8.0.1
 
 # 
 mongo
@@ -138,7 +147,7 @@ sonarsource/sonar-scanner-cli
 # python
 python
 #python:3.12.11
-
+python:2.7.18
 
 
 # maven
