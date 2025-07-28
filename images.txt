@@ -60,6 +60,7 @@ zookeeper
 
 # seata
 # seataio/seata-server:1.8.0.2
+seataio/seata-server:1.6.1
 seataio/seata-server
 
 # other
@@ -104,7 +105,7 @@ assaflavie/runlike
 #centos:7.9.2009
 rockylinux/rockylinux:10
 rockylinux/rockylinux:9
-rockylinux/rockylinux:8
+#rockylinux/rockylinux:8
 ubuntu:20.04
 ubuntu:22.04
 ubuntu:24.04
