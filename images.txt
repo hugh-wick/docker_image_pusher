@@ -148,7 +148,8 @@ eclipse-temurin:11-jdk
 eclipse-temurin:11-jre
 
 # soner
-mc1arke/sonarqube-with-community-branch-plugin:10.3-community
+mc1arke/sonarqube-with-community-branch-plugin:10.6-community
+mc1arke/sonarqube-with-community-branch-plugin:9.9-community
 sonarsource/sonar-scanner-cli
 
 # python
