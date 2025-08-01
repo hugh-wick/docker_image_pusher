@@ -27,7 +27,7 @@ minio/minio
 mysql
 mysql:9
 mysql:8
-#mysql:8.0.43
+mysql:8.0
 
 # 
 mongo
