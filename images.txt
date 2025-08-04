@@ -28,7 +28,11 @@ minio/minio
 mysql:9
 mysql:8.4
 mysql:8.0
-
+mariadb:10.6.22
+mariadb:10.11.13
+mariadb:11.4.7
+mariadb:11.8.2
+mariadb:5.5.64
 # 
 mongo
 #mongo:8.0.12
