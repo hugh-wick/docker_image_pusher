@@ -24,7 +24,7 @@ minio/minio
 #node:22.17.1
 
 # db
-mysql:5.7.44
+#mysql:5.7.44
 mysql:9
 mysql:8.4
 mysql:8.0
@@ -98,8 +98,14 @@ gitlab/gitlab-ce
 gitlab/gitlab-runner
 
 # 私有打包
-hntohere/maven-cn163:3.5.4-jdk-11
-hntohere/openjdk-ping:11
+#hntohere/maven-cn163:3.5.4-jdk-11
+#hntohere/openjdk-ping:11
+
+hntohere/maven-aliyun:3.9.9-eclipse-temurin-11
+hntohere/maven-aliyun:3.8.8-eclipse-temurin-11
+hntohere/maven-aliyun:3.9.9-eclipse-temurin-17
+hntohere/eclipse-temurin:17-ping
+
 # 大华、海康、宇视、天地伟业摄像机SDK包
 hntohere/device-cameras
 # 摄像机图片质量诊断、包含opencv 4.5.4环境
