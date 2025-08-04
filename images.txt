@@ -101,10 +101,10 @@ gitlab/gitlab-runner
 #hntohere/maven-cn163:3.5.4-jdk-11
 #hntohere/openjdk-ping:11
 
-hntohere/maven-aliyun:3.9.9-eclipse-temurin-11
-hntohere/maven-aliyun:3.8.8-eclipse-temurin-11
-hntohere/maven-aliyun:3.9.9-eclipse-temurin-17
-hntohere/eclipse-temurin:17-ping
+#hntohere/maven-aliyun:3.9.9-eclipse-temurin-11
+#hntohere/maven-aliyun:3.8.8-eclipse-temurin-11
+#hntohere/maven-aliyun:3.9.9-eclipse-temurin-17
+#hntohere/eclipse-temurin:17-ping
 
 # 大华、海康、宇视、天地伟业摄像机SDK包
 hntohere/device-cameras
@@ -152,8 +152,8 @@ eclipse-temurin:21-jdk
 eclipse-temurin:21-jre
 eclipse-temurin:17-jdk
 eclipse-temurin:17-jre
-eclipse-temurin:11-jdk
-eclipse-temurin:11-jre
+#eclipse-temurin:11-jdk
+#eclipse-temurin:11-jre
 
 # soner
 #mc1arke/sonarqube-with-community-branch-plugin:10.6-community
