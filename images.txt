@@ -172,3 +172,12 @@ maven:3.9.6-eclipse-temurin-17
 maven:3.9.6-eclipse-temurin-17-alpine
 maven:3.9.6-eclipse-temurin-21
 maven:3.9.6-eclipse-temurin-21-alpine
+
+
+# android
+budtmo/docker-android:emulator_9.0
+budtmo/docker-android:emulator_10.0
+budtmo/docker-android:emulator_11.0
+budtmo/docker-android:emulator_12.0
+budtmo/docker-android:emulator_13.0
+budtmo/docker-android:emulator_14.0
