@@ -24,9 +24,9 @@ minio/minio
 #node:22.17.1
 
 # db
-mysql
+mysql:5.7.44
 mysql:9
-mysql:8
+mysql:8.4
 mysql:8.0
 
 # 
