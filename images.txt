@@ -99,9 +99,8 @@ gitlab/gitlab-ce
 
 # ci/cd
 gitlab/gitlab-runner
+jenkins/jenkins:jdk21
 jenkins/jenkins:jdk17
-jenkins/jenkins:jdk11
-jenkins/jenkins:lts-jdk8
 
 assaflavie/runlike
 
@@ -181,6 +180,9 @@ nextcloud
 ictu/sshpass
 busybox
 alpine
+
+# 私有docker仓库
+registry
 
 # 私有打包
 #hntohere/openjdk-ping:11
