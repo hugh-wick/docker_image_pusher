@@ -175,6 +175,7 @@ budtmo/docker-android:emulator_14.0
 
 # cloud
 nextcloud
+nextcloud/all-in-one
 
 # 
 ictu/sshpass
