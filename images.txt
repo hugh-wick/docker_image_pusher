@@ -17,10 +17,10 @@ minio/minio
 #minio/minio:RELEASE.2025-04-22T22-12-26Z
 
 # node
-#node:16.20.2
 #node:18.17.1
 #node:20.19.4
 #node:22.17.1
+node:24
 
 # db
 mysql:9
@@ -97,8 +97,8 @@ gitlab/gitlab-ce
 
 # ci/cd
 gitlab/gitlab-runner
-jenkins/jenkins:jdk21
-jenkins/jenkins:jdk17
+#jenkins/jenkins:jdk21
+#jenkins/jenkins:jdk17
 
 assaflavie/runlike
 
@@ -112,10 +112,9 @@ rockylinux/rockylinux:9
 rockylinux/rockylinux:8
 
 # ubuntu
-ubuntu:18.04
-ubuntu:20.04
 ubuntu:22.04
 ubuntu:24.04
+
 
 # ELK
 # v7
@@ -172,7 +171,7 @@ maven:3.9.6-eclipse-temurin-21-alpine
 #budtmo/docker-android:emulator_11.0
 #budtmo/docker-android:emulator_12.0
 #budtmo/docker-android:emulator_13.0
-budtmo/docker-android:emulator_14.0
+#budtmo/docker-android:emulator_14.0
 
 # nextcloud
 # nextcloud
