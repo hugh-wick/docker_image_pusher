@@ -121,13 +121,13 @@ ubuntu:24.04
 
 # ELK
 # V8
-elasticsearch:8.17.10
-kibana:8.17.10
-logstash:8.17.10
+#elasticsearch:8.17.10
+#kibana:8.17.10
+#logstash:8.17.10
 
-elasticsearch:8.18.6
-kibana:8.18.6
-logstash:8.18.6
+#elasticsearch:8.18.6
+#kibana:8.18.6
+#logstash:8.18.6
 
 fluentd
 
