@@ -16,7 +16,7 @@ jc21/mariadb-aria
 minio/minio
 #minio/minio:RELEASE.2025-04-22T22-12-26Z
 # lifecycle rules
-minio:RELEASE.2024-11-07T00-52-20Z
+minio/minio:RELEASE.2024-11-07T00-52-20Z
 
 # node
 #node:18.17.1
