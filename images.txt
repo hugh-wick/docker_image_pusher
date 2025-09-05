@@ -80,11 +80,13 @@ ossrs/srs:6
 # 禅道
 easysoft/zentao
 # 论坛
-tencentci/discuz:v3.4
+#tencentci/discuz:v3.4
+
+# 监控
 grafana/grafana
 prom/prometheus
+#
 linuxserver/ffmpeg
-
 portainer/portainer
 ghcr.io/mhsanaei/3x-ui
 ghcr.io/umami-software/umami:postgresql-latest
@@ -137,13 +139,11 @@ louislam/uptime-kuma
 # docker 
 swarm
 
-# openjdk
+# eclipse-temurin jdk
 eclipse-temurin:21-jdk
 eclipse-temurin:21-jre
 eclipse-temurin:17-jdk
 eclipse-temurin:17-jre
-#eclipse-temurin:11-jdk
-#eclipse-temurin:11-jre
 
 # soner
 #mc1arke/sonarqube-with-community-branch-plugin:10.6-community
@@ -188,6 +188,6 @@ registry
 #hntohere/eclipse-temurin:17-ping
 
 # 大华、海康、宇视、天地伟业摄像机SDK包
-hntohere/device-cameras
+#hntohere/device-cameras
 # 摄像机图片质量诊断、包含opencv 4.5.4环境
-hntohere/device-cameras-status
+#hntohere/device-cameras-status
