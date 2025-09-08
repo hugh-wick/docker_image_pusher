@@ -43,9 +43,10 @@ tdengine/tdengine
 
 clickhouse/clickhouse-server
 postgres:17
-postgres:16
-postgres:15
-postgres:14
+#postgres:16
+#postgres:15
+#postgres:14
+#postgres:13
 
 # emqx 
 emqx/emqx
