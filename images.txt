@@ -42,6 +42,9 @@ tdengine/tdengine
 #tdengine/tdengine:3.3.6.13
 
 clickhouse/clickhouse-server
+# doris
+yagagagaga/doris-standalone
+
 postgres:17
 #postgres:16
 #postgres:15
