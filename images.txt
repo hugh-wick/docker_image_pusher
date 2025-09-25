@@ -94,7 +94,6 @@ prom/prometheus
 #
 linuxserver/ffmpeg
 portainer/portainer
-ghcr.io/mhsanaei/3x-ui
 ghcr.io/umami-software/umami:postgresql-latest
 
 
@@ -118,7 +117,7 @@ assaflavie/runlike
 #centos:7.9.2009
 
 # rockylinux
-rockylinux/rockylinux:10
+#rockylinux/rockylinux:10
 rockylinux/rockylinux:9
 #rockylinux/rockylinux:8
 
